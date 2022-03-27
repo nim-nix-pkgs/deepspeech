@@ -11,6 +11,7 @@
   inputs.src-deepspeech-v0_7_1.ref   = "refs/tags/v0.7.1";
   inputs.src-deepspeech-v0_7_1.owner = "eagledot";
   inputs.src-deepspeech-v0_7_1.repo  = "nim-deepspeech";
+  inputs.src-deepspeech-v0_7_1.dir   = "";
   inputs.src-deepspeech-v0_7_1.type  = "gitlab";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
