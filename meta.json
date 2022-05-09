@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://gitlab.com/eagledot/nim-deepspeech",
   "refs": [
-    "fatal: unable to access 'https://gitlab.com/eagledot/nim-deepspeech/': SSL connection timeout",
+    "fatal: unable to access 'https://gitlab.com/eagledot/nim-deepspeech/': Could not resolve host: gitlab.com",
     ""
   ],
   "heads": []
